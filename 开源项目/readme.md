@@ -24,4 +24,5 @@ RxJava
 # Android源码
 1. HandlerThread 
 
+* [HandlerThread -hutcwp](http://blog.csdn.net/qq_25184739/article/details/77926247)
 * [Android 多线程之HandlerThread 完全详解](http://blog.csdn.net/javazejian/article/details/52426353)
