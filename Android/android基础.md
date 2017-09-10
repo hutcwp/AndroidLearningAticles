@@ -3,7 +3,7 @@ Android
 ---
 
 
-##第一部分：
+##Android基础：
 
 * [Android(安卓)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part1/Android)
 
@@ -66,7 +66,9 @@ Android
    * [《Java编程思想》第一章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第一章读书笔记.md)
    * [《Java编程思想》第二章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第二章读书笔记.md)
 
+=======
 * [Project(项目)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/Project)
    * [项目难点](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/Project/项目.md)
 
+=======
 * [Android版本特性](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&amp;mid=2247484167&amp;idx=1&amp;sn=f9192333f4f9ef97df7b504d0d261cb5&amp;chksm=eb476f99dc30e68f00118a25eeea1fda0cc235f67efab99784f721127ed6ae7d78e9db2a2f0c&amp;scene=21#wechat_redirect)
