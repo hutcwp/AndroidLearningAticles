@@ -19,3 +19,9 @@
 事件总线
 
 RxJava
+
+
+# Android源码
+1. HandlerThread 
+
+* [Android 多线程之HandlerThread 完全详解](http://blog.csdn.net/javazejian/article/details/52426353)
