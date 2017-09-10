@@ -14,6 +14,11 @@
 8. [面试经验](https://github.com/hutcwp/AndroidLearningAticles/blob/master/%E9%9D%A2%E7%BB%8F/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C.md)
 
 ---
+---
+其他文章整理汇总：
+[2017上半年技术文章集合【Android】—184篇文章分类汇总](https://juejin.im/post/59b513075188257e671b6866?utm_source=gold_browser_extension)
+
+---
 目的：用于个人学习，任何商业用途均禁止，各文章均是网络收集而来。
 
 如有侵权请告知，立即删除！
