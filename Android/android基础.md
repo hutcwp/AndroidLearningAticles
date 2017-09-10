@@ -2,10 +2,6 @@ Android
 
 ---
 
-1. 线程池相关
-*![线程池的介绍及简单实现](https://www.ibm.com/developerworks/cn/java/l-threadPool/)
-
-
 
 ##第一部分：
 
@@ -18,6 +14,7 @@ Android
     * [Android性能优化](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android性能优化.md)
     * [ListView详解](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Listview详解.md)
     * [RecyclerView和ListView的异同](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Recyclerview和Listview的异同.md)
+    *[线程池的介绍及简单实现](https://www.ibm.com/developerworks/cn/java/l-threadPool/)
     * [AsyncTask源码分析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Asynctask源码分析.md)
     * [插件化技术](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
     * [自定义控件](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/自定义控件.md)
