@@ -52,7 +52,10 @@ Android
     * [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
 
 =======
+####Android新技术
+* [Android彻底组件化方案实践（上）](http://www.jianshu.com/p/1b1d77f58e8)
 
+=======
 
 * [ReadingNotes(读书笔记)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/ReadingNotes)
    * [《APP研发录》第1章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《APP研发录》第1章读书笔记.md)
