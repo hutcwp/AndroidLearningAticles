@@ -52,7 +52,9 @@ Android
     * [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
 
 =======
-####Android新技术
+
+#### Android新技术
+
 * [Android彻底组件化方案实践（上）](http://www.jianshu.com/p/1b1d77f58e8)
 
 =======
@@ -75,6 +77,7 @@ Android
    * [项目难点](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/Project/项目.md)
 
 =======
+
 *[webView专题](http://blog.csdn.net/qq_23547831/article/details/51820139)
 
 
