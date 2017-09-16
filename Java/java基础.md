@@ -17,7 +17,9 @@
 * [JVM(Java虚拟机)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part2/JVM)
   * [JVM基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM.md)
   * [JVM类加载机制](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM类加载机制.md)
+  
   * [Jvm类加载过程](http://www.hollischuang.com/archives/201)
+  
   * [Java内存区域与内存溢出](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/Java内存区域与内存溢出.md)
   * [垃圾回收算法](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/垃圾回收算法.md)
 
