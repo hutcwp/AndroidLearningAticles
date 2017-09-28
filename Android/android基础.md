@@ -2,6 +2,7 @@ Android
 
 ---
 牛逼的博客： *[Gityuan的博客](http://gityuan.com/page3/)
+
 知识体系结构图：
 * [一图看懂Android视图及绘制流程](http://lowett.com/2017/07/25/view-flow/)
 
